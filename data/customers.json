@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "customer": "cty b",
+
+        "product": "iphone 14",
+        "unitPrice": 1000,
+        "discount": 7,
+        "add": "71 ngũ Hành sơn,"
+    },
+    {
+        "id": 2,
+        "customer": "cty a",
+        "discount": 7.5,
+        "unitPrice": 950,
+
+        "product": "iphone 13",
+        "add": "81 ngũ Hành sơn,"
+    }
+   
+]

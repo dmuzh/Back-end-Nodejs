@@ -1,0 +1,41 @@
+[
+{
+    "id":1,
+    "ordersDay":"05/01/2020",
+    "customer":"cty a",
+    "product":"iphone 14",
+    "unitPrice":1000,
+    "discount": 7,
+    "add":"71 ngũ Hành sơn,"
+},
+{
+    "id":2,
+    "ordersDay":"06/01/2020",
+    "customer":"cty a",
+    "product":"iphone 14",
+    "unitPrice":1000,
+    "discount": 7,
+
+    "add":"71 ngũ Hành sơn,"
+},
+{
+    "id":3,
+    "ordersDay":"05/01/2020",
+    "customer":"cty a",
+    "product":"iphone 14",
+    "unitPrice":1000,
+    "discount": 7,
+
+    "add":"71 ngũ Hành sơn,"
+},
+{
+    "id":4,
+    "ordersDay":"05/07/2020",
+    "customer":"cty a",
+    "product":"iphone 13",
+    "unitPrice":900,
+    "discount": 7,
+
+    "add":"71 ngũ Hành sơn,"
+}
+]

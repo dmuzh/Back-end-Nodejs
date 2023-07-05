@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "product": "iphone 14",
+        "quantity":2,
+        "unitPrice": 1000,
+        "discount": 7
+    },
+    {
+        "id": 2,
+        "product": "iphone 13",
+        "quantity":5,
+        "unitPrice": 900,
+        "discount": 8
+    }
+   
+]

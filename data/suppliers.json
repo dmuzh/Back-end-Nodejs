@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "supplier": "cty A",
+        "product": "iphone 14",
+        "order ": 1000,
+        "payment ":"yes",
+        "discount": 7,
+        "add": "71 ngũ Hành sơn,"
+    },
+    {
+        "id": 2,
+        "supplier": "cty b",
+        "product": "iphone 12",
+        "order ": 950,
+        "payment ":"yes",
+        "discount": 8,
+        "add": "71 ngũ Hành sơn,"
+    }
+   
+]

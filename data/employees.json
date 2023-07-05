@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen van A",
+
+        "BDate": "1960",
+        "Salary": 1000,
+        "Address": "Hà nội,"
+    },
+    {
+        "id": 1,
+        "name": "Nguyen van A",
+
+        "BDate": "1970",
+        "Salary": 1000,
+        "Address": "Hải Phòng"
+    }
+   
+]
