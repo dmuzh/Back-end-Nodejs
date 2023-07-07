@@ -26,10 +26,10 @@ const {
   question13,
   question18,
   question19,
-  question20,
-  question24,
+  // question20,
+  // question24,
   question25,
-  question27,
+  // question27,
   hotSale,
   hotSaleFull,
   selling,
@@ -62,10 +62,10 @@ router.get('/12', question12);
 router.get('/13', question13);
 router.get('/18', question18);
 router.get('/19', question19);
-router.get('/20', question20);
-router.get('/24', question24);
+// router.get('/20', question20);
+// router.get('/24', question24);
 router.get('/25', question25);
-router.get('/27', question27);
+// router.get('/27', question27);
 router.get('/hotSale', hotSale);
 router.get('/hotSaleFull', hotSaleFull);
 
