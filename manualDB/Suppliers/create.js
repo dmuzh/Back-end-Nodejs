@@ -2,7 +2,7 @@ const { default: mongoose } = require('mongoose');
 const { Supplier } = require('../../../models');
 
 // mongoose.connect('mongodb://localhost:27017/batch-29-30-database');
-mongoose.connect('mongodb://127.0.0.1:27017/database27-28');
+mongoose.connect('mongodb+srv://muzh28dev:Manh123456@cluster0.heat8ve.mongodb.net/database27-28');
 
 try {
   const data = {
